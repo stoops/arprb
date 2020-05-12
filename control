@@ -1,0 +1,11 @@
+Package: dhcprb
+Version: 1.0.0
+Description: arp and dhcp relay service
+Section: networking
+Priority: optional
+Maintainer: fossjon
+License: OPEN
+Architecture: all
+OE: dhcprb
+Homepage: null
+Source:   null
